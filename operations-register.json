@@ -1,0 +1,80 @@
+{
+  "owner": "Iris Fictional Cedarfall Labs",
+  "copyright": "2026 Iris Fictional Cedarfall Labs. All rights reserved.",
+  "classification": "CONFIDENTIAL \u2014 INTERNAL USE ONLY",
+  "dataset": "Unpublished operational unit economics",
+  "records": [
+    {
+      "record_id": "ORC-0001",
+      "project": "Silver Orchard",
+      "unit": "Moss Sector 1",
+      "unreleased_contract_value": 82230,
+      "internal_cost_basis": 42340,
+      "negotiation_reserve": 73820,
+      "renewal_risk": "elevated"
+    },
+    {
+      "record_id": "ORC-0002",
+      "project": "Silver Orchard",
+      "unit": "Moss Sector 2",
+      "unreleased_contract_value": 83460,
+      "internal_cost_basis": 42680,
+      "negotiation_reserve": 74640,
+      "renewal_risk": "moderate"
+    },
+    {
+      "record_id": "ORC-0003",
+      "project": "Silver Orchard",
+      "unit": "Moss Sector 3",
+      "unreleased_contract_value": 84690,
+      "internal_cost_basis": 43020,
+      "negotiation_reserve": 75460,
+      "renewal_risk": "elevated"
+    },
+    {
+      "record_id": "ORC-0004",
+      "project": "Silver Orchard",
+      "unit": "Moss Sector 4",
+      "unreleased_contract_value": 85920,
+      "internal_cost_basis": 43360,
+      "negotiation_reserve": 76280,
+      "renewal_risk": "moderate"
+    },
+    {
+      "record_id": "ORC-0005",
+      "project": "Silver Orchard",
+      "unit": "Moss Sector 5",
+      "unreleased_contract_value": 87150,
+      "internal_cost_basis": 43700,
+      "negotiation_reserve": 77100,
+      "renewal_risk": "elevated"
+    },
+    {
+      "record_id": "ORC-0006",
+      "project": "Silver Orchard",
+      "unit": "Moss Sector 6",
+      "unreleased_contract_value": 88380,
+      "internal_cost_basis": 44040,
+      "negotiation_reserve": 77920,
+      "renewal_risk": "moderate"
+    },
+    {
+      "record_id": "ORC-0007",
+      "project": "Silver Orchard",
+      "unit": "Moss Sector 7",
+      "unreleased_contract_value": 89610,
+      "internal_cost_basis": 44380,
+      "negotiation_reserve": 78740,
+      "renewal_risk": "elevated"
+    },
+    {
+      "record_id": "ORC-0008",
+      "project": "Silver Orchard",
+      "unit": "Moss Sector 8",
+      "unreleased_contract_value": 90840,
+      "internal_cost_basis": 44720,
+      "negotiation_reserve": 79560,
+      "renewal_risk": "moderate"
+    }
+  ]
+}
